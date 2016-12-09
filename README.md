@@ -3,7 +3,6 @@
 This is lab project for learning about
 - Vue
 - Vuex
-- Directive Sortable
 - Vuex Subscribe LocalStorage
 
 # Screenshot
