@@ -15,7 +15,6 @@
   "dependencies": {
     "axios": "^0.15.3",
     "bulma": "^0.2.3",
-    "element-ui": "^1.0.3",
     "font-awesome": "^4.7.0",
     "lodash": "^4.17.2",
     "node-sass": "^3.13.0",
@@ -38,7 +37,6 @@
     "connect-history-api-fallback": "^1.1.0",
     "cross-spawn": "^4.0.2",
     "css-loader": "^0.25.0",
-    "element-ui": "^1.0.3",
     "eslint": "^3.7.1",
     "eslint-config-standard": "^6.1.0",
     "eslint-friendly-formatter": "^2.0.5",
